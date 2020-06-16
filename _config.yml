@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://dgpupaza.github.io"
+url: "http://www.kubernetesnativeapps.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Home                                    	# site's title
+title: Kubernetes.Native.Apps                                    	# site's title
 description: "A website with blog posts and pages"     # used by search engines
 #avatar: assets/img/triangle.png                       # Empty for no avatar in navbar
 #favicon: assets/favicon.ico                            # Icon displayed in the tab
 
 # Header and footer text
-header_text: Cloud.Native.Apps  # Change Blog header text
+header_text: Kubernetes.Native.Apps  # Change Blog header text
 #header_feature_image: assets/img/pexels/architecture.png
 header_feature_image: assets/img/pexels/abstract-network.jpg
 footer_text: >
