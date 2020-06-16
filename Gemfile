@@ -22,5 +22,6 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-asciidoc'
   gem 'jekyll-paginate'
+  gem 'jekyll-sitemap'
 end
 
